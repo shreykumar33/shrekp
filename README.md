@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shrekp
+- 👋 Hi, I’m @shrekp i.e., Shrey Kumar Gupta
 - 👀 I’m interested in competetive coding and problem solving via programming.
 - 🌱 I’m currently learning c.
 - 💞️ I’m looking to collaborate and open to coding projects and learning. 
