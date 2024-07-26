@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shrekp i.e., Shrey Kumar Gupta
-- 👀 I’m interested in competetive coding and problem solving via programming.
-- 🌱 I’m currently learning cpp.
-- 💞️ I’m looking to collaborate and open to coding projects and learning. 
-- 📫 How to reach me - ping me on https://www.linkedin.com/in/shreykg/
+- Hi, I’m @shrekp i.e., Shrey Kumar Gupta
+- I’m interested in competetive coding and programming.
+- Currently learning cpp.
+- I’m looking to collaborate and open to coding projects and learning. 
+- Ping me on https://www.linkedin.com/in/shreykg/
 
 <!---
 shrekp/shrekp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
