@@ -1,4 +1,4 @@
-- Hi, I’m @shrekp aka Shrey Kumar Gupta
+- Hi, I’m (@shreykumar33) Shrey Kumar Gupta.
 - I’m interested in competetive coding and programming.
 - Currently learning cpp.
 - I’m looking to collaborate and open to coding projects and learning. 
