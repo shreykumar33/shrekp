@@ -7,12 +7,16 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Oi, mate! I'm Shrey 👋</h1>
 <h3 align="center">A trying coder from India</h3>
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=shreykumar33&label=Profile%20views&color=0e75b6&style=flat" alt="shreykumar33" /> </p>
-
 
 - 💼 Interested in working together? Reach out to me via <a href="mailto:guptashrey555@gmail.com">email.</a>
 
 - 💬 Got a question or just curious about something? Feel free to ask!
+
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shreykg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreykg" height="30" width="40" /></a>
+</p>
+
 
 ## 📈 My GitHub stats
 
@@ -23,10 +27,6 @@ You can click the Preview link to take a look at your changes.
   </p>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shreykg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreykg" height="30" width="40" /></a>
-</p>
 
 <!-- GitHub Trophies -->
 <p align="center">
@@ -34,10 +34,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-profile-trophy.vercel.app/?username=shreykumar33&theme=nord&&column=9&row=1" />
   </a>
 </p>
-
-
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=shreykumar33&label=Profile%20views&color=0e75b6&style=flat" alt="shreykumar33" /> </p>
-
 
 ---
 
