@@ -9,6 +9,12 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreykumar33&label=Profile%20views&color=0e75b6&style=flat" alt="shreykumar33" /> </p>
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/shreykumar33/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shreykumar33&theme=nord&&column=9&row=1" />
+  </a>
+</p>
 - 💼 Interested in working together? Reach out to me via <a href="mailto:guptashrey555@gmail.com">email.</a>
 - 💬 Got a question or just curious about something? Feel free to ask!
 
