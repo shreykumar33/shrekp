@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Oi, mate! I'm Shrey 👋</h1>
 <h3 align="center">A trying coder from India</h3>
+![giphy2](https://github.com/user-attachments/assets/e58d1f46-e2c4-4836-82ff-f562fd2e15f2)
 
 
 - 💼 Interested in working together? Reach out to me via <a href="mailto:guptashrey555@gmail.com">email.</a>
