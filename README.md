@@ -28,13 +28,19 @@ You can click the Preview link to take a look at your changes.
   </p>
 </div>
 
+<!-- Visitors badge -->
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fshreykumar33">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshreykumar33&label=visitors&labelColor=%232d3440&countColor=%2380a0c0&style=flat-square" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="40" align="middle">
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/shreykumar33/master/gifs/roadsign.gif" width="40" align="middle">
   &nbsp;&nbsp;&nbsp; BUT FIRST THIS &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="40" align="middle">  
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/shreykumar33/master/gifs/roadsign.gif" width="40" align="middle">  
 </p>
 Most of the code you stumble upon here is just me monkeying around... 🐒 <br>
 My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.
