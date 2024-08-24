@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreykumar33&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="shreykumar33's Stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=shreykumar33&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="shreykumar33's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreykumar33&theme=tokyonight&hide_border=true" alt="shreykumar33's Streak" height="165">
   </p>
 </div>
