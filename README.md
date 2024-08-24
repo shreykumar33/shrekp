@@ -1,4 +1,5 @@
-![Hello world](https://github.com/user-attachments/assets/bab001fd-8258-4343-8953-404d93870635)
+![Hello world](https://github.com/user-attachments/assets/50084562-825e-4264-bdff-b56ec2c0a9ad)
+
 
 <!---
 shrekp/shrekp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
