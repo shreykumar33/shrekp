@@ -3,7 +3,7 @@
 shrekp/shrekp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![GitHub ReadMe Header](![giphy2](https://github.com/user-attachments/assets/a718eaff-72e6-4df6-8586-03d22490174f))](https://github.com/shreykumar33/animated-banner_github)
+
 <h1 align="center">Oi, mate! I'm Shrey 👋</h1>
 <h3 align="center">A trying coder from India</h3>
 
