@@ -28,13 +28,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/shreykumar33/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shreykumar33&theme=nord&&column=9&row=1" />
-  </a>
-</p>
-
 ---
 
 
