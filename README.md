@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Got a question or just curious about something? Feel free to ask!
 
-- Connect with me: <a href="https://linkedin.com/in/shreykg" target="blank">
+- Connect with me: <a href="https://linkedin.com/in/shreykg" target="blank">My Linkedin</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
