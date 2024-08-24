@@ -38,9 +38,9 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreykumar33/shreykumar33/master/gifs/roadsign.gif" width="40" align="middle">
+  <img src="https://raw.githubusercontent.com/shreykumar33/master/gifs/roadsign.gif" width="40" align="middle">
   &nbsp;&nbsp;&nbsp; BUT FIRST THIS &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/shreykumar33/shreykumar33/master/gifs/roadsign.gif" width="40" align="middle">  
+  <img src="https://raw.githubusercontent.com/shreykumar33/master/gifs/roadsign.gif" width="40" align="middle">  
 </p>
 Most of the code you stumble upon here is just me monkeying around... 🐒 <br>
 My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.
